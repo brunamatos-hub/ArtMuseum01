@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+header{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0px;
+    background-color: #2A2B2A;
+    color: white;
+}
+
+main{
+    width: 80%;
+    margin: 20px auto;
+    padding: 20px;
+    justify-content: center;
+}
+
+ul{
+    display: flex;
+    gap: 20px
+}
+
+main img{
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+#titulo{
+    justify-content: center;
+}
+
